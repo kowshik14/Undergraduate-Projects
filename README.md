@@ -4,6 +4,9 @@ Welcome to my **Undergraduate's Project Portfolio** repository! This repository 
 
 ## Projects
 
+### [PizzaPalace - A Full-Stack Pizza Restaurant Website](https://github.com/kowshik14/Pizza-Resturant-Website/tree/master)  
+Developed a dynamic restaurant website enabling customers to order food online, like pizza 🍕, using HTML, CSS, Bootstrap and JavaScript for the frontend, along with ASPX.NET, SQL, C# Server for backend processing. The platform includes user authentication, real-time menu updates, and an admin dashboard for managing orders efficiently.  
+
 ### [Regulated DC Dual Power Supply](https://github.com/kowshik14/academic-project/blob/main/REGULATED%20DC%20DUAL%20POWER%20SUPPLY.pdf)  
 Designing a DC dual power supply that is capable of providing constant as well as variable output voltage to a definite positive (+12V) and negative (-12V) range. This power supply has protections in various cases like over voltage, under voltage, short circuit, etc. The project was developed with basic active & passive electronic components such as Transformers, Diodes, Zener Diodes, Capacitors, Resistors, Op-amps, Adjustable regulator IC, Transistors, Relay, etc.  
 
