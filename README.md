@@ -4,6 +4,15 @@ Welcome to my **Undergraduate's Project Portfolio** repository! This repository 
 
 ## Projects
 
+### [Feature Extraction and Classification of Elctrooculogram (EOG) signal by using RNN for HCI](https://github.com/kowshik14/Pizza-Resturant-Website/tree/master)  
+The project represents my undergraduate thesis work, focusing on the development of a system to identify four directional eye movements using Electrooculography (EOG) signals. The project utilizes MATLAB for essential preprocessing tasks, including signal denoising, baseline drift mitigation, and feature extraction. For the classification phase, Python 3.7 is employed, leveraging Scikit-Learn and TensorFlow within the Google Colab environment. By analyzing time-domain features, the study evaluates the performance of Recurrent Neural Network (RNN)-based deep learning algorithms. This work demonstrates the effectiveness of combining feature extraction with deep learning techniques for accurate classification of EOG signals, contributing to advancements in human-computer interaction.  
+
+This research has been published in a Scopus-indexed journal. If you're interested, feel free to read it!
+
+**Citation:** 
+Roy, K. S., & Islam, S. M. R. (2023). An RNN-based Hybrid Model for Classification of Electrooculogram Signal for HCI. International Journal of Computing, 22(3), 335-344. https://doi.org/10.47839/ijc.22.3.3228
+
+
 ### [PizzaPalace - A Full-Stack Pizza Restaurant Website](https://github.com/kowshik14/Pizza-Resturant-Website/tree/master)  
 Developed a dynamic restaurant website enabling customers to order food online, like pizza 🍕, using HTML, CSS, Bootstrap and JavaScript for the frontend, along with ASPX.NET, SQL, C# Server for backend processing. The platform includes user authentication, real-time menu updates, and an admin dashboard for managing orders efficiently.  
 
