@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # An RNN-based Hybrid Model for Classification of Electrooculogram Signal for HCI
 
 [![DOI](https://img.shields.io/badge/DOI-10.47839/ijc.22.3.3228-blue.svg)](http://dx.doi.org/10.47839/ijc.22.3.3228)
